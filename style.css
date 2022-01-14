@@ -110,3 +110,29 @@ p {
 .about-description {
   padding: 160px 20px;
 }
+.projects-title h1 {
+  font-size: 64px;
+  line-height: 85px;
+}
+.projects-title {
+  width: 825px;
+  height: 170px;
+  padding: 160px 20px;
+  margin: 30px;
+}
+
+.projects-section img {
+  width: 560px;
+  height: 560px;
+  border-radius: 20px;
+}
+.projects-section h2 {
+  font-size: 24px;
+  line-height: 36px;
+  font-family: var(--default-font-family);
+}
+.projects-section p {
+  font-size: 14px;
+  line-height: 21px;
+  font-family: var(--default-font-family);
+}
