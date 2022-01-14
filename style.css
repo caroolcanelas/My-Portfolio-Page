@@ -86,6 +86,10 @@ p {
   .about-section {
     margin: 30px;
   }
+  .projects-title {
+    text-align: center;
+    padding: 0;
+  }
 }
 
 .about-description h1 {
@@ -110,29 +114,29 @@ p {
 .about-description {
   padding: 160px 20px;
 }
-.projects-title h1 {
+.projects-content h1 {
   font-size: 64px;
   line-height: 85px;
 }
-.projects-title {
-  width: 825px;
-  height: 170px;
-  padding: 160px 20px;
+.projects-content {
   margin: 30px;
 }
 
-.projects-section img {
+.projects-content img {
   width: 560px;
   height: 560px;
   border-radius: 20px;
 }
-.projects-section h2 {
+.projects-content h2 {
   font-size: 24px;
   line-height: 36px;
   font-family: var(--default-font-family);
 }
-.projects-section p {
+.projects-content p {
   font-size: 14px;
   line-height: 21px;
   font-family: var(--default-font-family);
+}
+.content {
+  padding: 160px 20px;
 }
