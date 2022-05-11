@@ -130,8 +130,8 @@ p {
 }
 
 .projects-content img {
-  width: 560px;
-  height: 560px;
+  width: 500px;
+  height: 300px;
   border-radius: 20px;
 }
 .projects-content h2 {
